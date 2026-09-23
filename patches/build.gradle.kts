@@ -1,14 +1,13 @@
-group = "app.template"
+group = "app.jjjusf16"
 
 patches {
-    // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
-        contact = "na"
-        website = "na"
+        name = "3jPatch_Morphe"
+        description = "Version-locked Android patches for Morphe"
+        source = "https://github.com/jjjusf16-sys/3jPatch_Morphe.git"
+        author = "jjjusf16-sys"
+        contact = "https://github.com/jjjusf16-sys"
+        website = "https://github.com/jjjusf16-sys/3jPatch_Morphe"
         license = "GPLv3"
     }
 }
